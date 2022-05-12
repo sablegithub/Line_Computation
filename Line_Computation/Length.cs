@@ -23,17 +23,18 @@ namespace Line_Computation
         double length2 =y2 - y1;
          double   LengthofLine = Math.Sqrt(length1) + Math.Sqrt(length2);
             Console.WriteLine("Length of line " +   LengthofLine);
+            Console.WriteLine("Return value (comparison) = " +length1.CompareTo(length2));
 
-            if (length1 < length2)
+           if (length1 < length2)
             {
                 Console.WriteLine("Lenght 1 greter than length 2");
             }
 
             else
             {
-                Console.WriteLine("Length 2 is greter than  length 1");
+                Console.WriteLine("Length 2 is greter than length 1");
             }
-
+           
                  
         }
     }
