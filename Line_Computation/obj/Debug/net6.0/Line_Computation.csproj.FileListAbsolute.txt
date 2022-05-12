@@ -1,0 +1,15 @@
+D:\BridgeLabs Assignment\Line_Computation\Line_Computation\bin\Debug\net6.0\Line_Computation.exe
+D:\BridgeLabs Assignment\Line_Computation\Line_Computation\bin\Debug\net6.0\Line_Computation.deps.json
+D:\BridgeLabs Assignment\Line_Computation\Line_Computation\bin\Debug\net6.0\Line_Computation.runtimeconfig.json
+D:\BridgeLabs Assignment\Line_Computation\Line_Computation\bin\Debug\net6.0\Line_Computation.dll
+D:\BridgeLabs Assignment\Line_Computation\Line_Computation\bin\Debug\net6.0\Line_Computation.pdb
+D:\BridgeLabs Assignment\Line_Computation\Line_Computation\obj\Debug\net6.0\Line_Computation.csproj.AssemblyReference.cache
+D:\BridgeLabs Assignment\Line_Computation\Line_Computation\obj\Debug\net6.0\Line_Computation.GeneratedMSBuildEditorConfig.editorconfig
+D:\BridgeLabs Assignment\Line_Computation\Line_Computation\obj\Debug\net6.0\Line_Computation.AssemblyInfoInputs.cache
+D:\BridgeLabs Assignment\Line_Computation\Line_Computation\obj\Debug\net6.0\Line_Computation.AssemblyInfo.cs
+D:\BridgeLabs Assignment\Line_Computation\Line_Computation\obj\Debug\net6.0\Line_Computation.csproj.CoreCompileInputs.cache
+D:\BridgeLabs Assignment\Line_Computation\Line_Computation\obj\Debug\net6.0\Line_Computation.dll
+D:\BridgeLabs Assignment\Line_Computation\Line_Computation\obj\Debug\net6.0\refint\Line_Computation.dll
+D:\BridgeLabs Assignment\Line_Computation\Line_Computation\obj\Debug\net6.0\Line_Computation.pdb
+D:\BridgeLabs Assignment\Line_Computation\Line_Computation\obj\Debug\net6.0\Line_Computation.genruntimeconfig.cache
+D:\BridgeLabs Assignment\Line_Computation\Line_Computation\obj\Debug\net6.0\ref\Line_Computation.dll
